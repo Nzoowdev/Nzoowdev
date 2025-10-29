@@ -3,7 +3,11 @@
 ### 🧭 À propos de moi
 Je suis actuellement en formation de **développeur web** à la **Holberton School**, où j’explore les bases solides du code et de la logique informatique.  
 Je débute mon apprentissage du **langage C**, une étape exigeante mais passionnante qui m’apprend à penser comme un vrai programmeur.
-
+<p align="center">
+    <picture>
+        <img src="./assets/images/banner(2).webp" alt="GitHub profil banner">
+    </picture>
+</p>
 ### 💡 Ma vision
 Je veux créer des **outils utiles** — des projets concrets qui simplifient la vie, automatisent, ou inspirent.  
 Mon approche : **professionnelle**, mais toujours avec une **touche de créativité**.  
@@ -25,3 +29,4 @@ Ce profil, c’est le reflet de ce chemin — fait d’apprentissage, de curiosi
 ---
 🧱 *“briks by briks”*
 ```
+
