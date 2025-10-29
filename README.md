@@ -5,7 +5,7 @@ Je suis actuellement en formation de **développeur web** à la **Holberton Scho
 Je débute mon apprentissage du **langage C**, une étape exigeante mais passionnante qui m’apprend à penser comme un vrai programmeur.
 <p align="center">
     <picture>
-        <img src="./assets/images/banner (2).webp" alt="GitHub profil banner">
+        <img src="./assets/images/banner.webp" alt="GitHub profil banner">
     </picture>
 </p>
 ### 💡 Ma vision
@@ -29,5 +29,6 @@ Ce profil, c’est le reflet de ce chemin — fait d’apprentissage, de curiosi
 ---
 🧱 *“briks by briks”*
 ```
+
 
 
