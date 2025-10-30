@@ -27,13 +27,4 @@ Ce profil grandira au fil de mon parcours, comme un carnet de bord de ma progres
 Je ne cherche pas seulement à écrire du code : je cherche à **donner forme à des idées**.  
 Ce profil, c’est le reflet de ce chemin — fait d’apprentissage, de curiosité et d’envie de faire mieux à chaque commit.
 
----
-🧱 *“briks by briks”*
-```
-
-
-
-
-
-
-
+🧱 briks by briks
