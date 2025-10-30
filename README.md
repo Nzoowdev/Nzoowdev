@@ -8,6 +8,7 @@ Je débute mon apprentissage du **langage C**, une étape exigeante mais passion
         <img src="./assets/images/banner (2).webp" alt="GitHub profil banner">
     </picture>
 </p>
+
 ### 💡 Ma vision
 Je veux créer des **outils utiles** — des projets concrets qui simplifient la vie, automatisent, ou inspirent.  
 Mon approche : **professionnelle**, mais toujours avec une **touche de créativité**.  
@@ -29,6 +30,7 @@ Ce profil, c’est le reflet de ce chemin — fait d’apprentissage, de curiosi
 ---
 🧱 *“briks by briks”*
 ```
+
 
 
 
