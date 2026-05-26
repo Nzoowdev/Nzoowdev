@@ -1,8 +1,7 @@
 # 👋 Bienvenue sur mon profil GitHub
 
 ### 🧭 À propos de moi
-Je suis actuellement en formation de **développeur web** à la **Holberton School**, où j’explore les bases solides du code et de la logique informatique.  
-Je débute mon apprentissage du **langage C**, une étape exigeante mais passionnante qui m’apprend à penser comme un vrai programmeur.
+Je débute mon apprentissage du **langage de programmation**, une étape exigeante mais passionnante qui m’apprend à penser comme un vrai programmeur.
 <p align="center">
     <picture>
         <img src="./assets/images/banner (2).webp" alt="GitHub profil banner">
